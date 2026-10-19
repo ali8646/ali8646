@@ -1,5 +1,8 @@
 ## Hi there 👋
+I'm Ali, a student at Rutgers
 
+
+this is still a WIP :)
 <!--
 **ali8646/ali8646** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
